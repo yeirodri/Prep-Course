@@ -33,7 +33,7 @@ Cuando escribimos código, todo el tiempo mezclamos expresiones y statements par
 // retorna algo
 1 + 1
 Math.pow(2, 3) + 4;
-'hola' + ' soy una expression';
+'hola' + ' soy una expression para todos';
 ```
 
 `1 + 1` intuitivamente se convierte o resuelve a `2`! eso es una expresión. Es cualquier cosa que escribamos y esperamos que se convierta en otro valor.
